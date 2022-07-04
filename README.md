@@ -14,7 +14,7 @@ Screenshots as of build 0.1.
 
 # Credits
 Sub-projects used to make WCT possible:
-[TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
-[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
-[Open-Shell] (https://github.com/Open-Shell/Open-Shell-Menu)
+- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+- [Open-Shell] (https://github.com/Open-Shell/Open-Shell-Menu)
 --to be complete--
