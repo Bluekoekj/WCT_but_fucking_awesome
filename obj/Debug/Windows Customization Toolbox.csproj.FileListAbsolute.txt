@@ -1,0 +1,12 @@
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\bin\Debug\Windows Customization Toolbox.exe.config
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\bin\Debug\Windows Customization Toolbox.exe
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\bin\Debug\Windows Customization Toolbox.pdb
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows Customization Toolbox.csproj.AssemblyReference.cache
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows Customization Toolbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows_Customization_Toolbox.Properties.Resources.resources
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows_Customization_Toolbox.Form1.resources
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows Customization Toolbox.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows Customization Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows Customization Toolbox.exe
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows Customization Toolbox.pdb
+C:\Users\Oliver\source\repos\Windows Customization Toolbox\Windows Customization Toolbox\obj\Debug\Windows_Customization_Toolbox.Main_UI.resources
