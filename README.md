@@ -9,8 +9,12 @@ You can download Windows Customization Toolbox in GitHub releases.
 # Screenshots
 Screenshots as of build 0.1.
 
-![Welcome Message](https://user-images.githubusercontent.com/89639839/177131580-1ed01994-3f53-4e36-9e10-a56e62c722f8.png)
-![image](https://user-images.githubusercontent.com/89639839/177131614-74fda49d-be0b-4980-996f-29263be3eb7a.png)
+![About](https://user-images.githubusercontent.com/89639839/177385393-b9ad55e5-88dc-46ed-b978-0332eda9e9f5.png)
+![Rainmeter Skins](https://user-images.githubusercontent.com/89639839/177385394-e571197b-ff36-4139-85b0-2795352409d2.png)
+![Desktop Customization](https://user-images.githubusercontent.com/89639839/177385396-1c402c32-3771-4e40-8d4b-58597050c788.png)
+![Taskbar Customization](https://user-images.githubusercontent.com/89639839/177385398-d76cbd52-2f7b-45c4-bfcf-ed2afd018e92.png)
+
+
 
 # Credits
 Sub-projects used to make WCT possible:
@@ -26,5 +30,3 @@ Sub-projects used to make WCT possible:
 - [Bluesh Rainmeter Skin](https://www.deviantart.com/rainmeterbase/art/Bluesh-Rainmeter-Clock-and-Visualizer-Skin-884565589)
 - [Cold Rainmeter Skin](https://visualskins.com/skin/cold)
 - [Win10Widgets](https://win10widgets.com/)
-
---to be complete--
