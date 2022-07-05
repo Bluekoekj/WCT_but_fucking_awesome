@@ -7,7 +7,7 @@ You can download Windows Customization Toolbox in GitHub releases.
 [![GitHub all releases](https://img.shields.io/github/downloads/oliverstech/WindowsCustomizationToolbox/total?style=plastic)](https://github.com/oliverstech/WindowsCustomizationToolbox/releases/latest)
 
 # Screenshots
-Screenshots as of build 0.1.
+Screenshots as of build 1.0
 
 ![About](https://user-images.githubusercontent.com/89639839/177385393-b9ad55e5-88dc-46ed-b978-0332eda9e9f5.png)
 ![Rainmeter Skins](https://user-images.githubusercontent.com/89639839/177385394-e571197b-ff36-4139-85b0-2795352409d2.png)
