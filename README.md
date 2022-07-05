@@ -17,5 +17,14 @@ Sub-projects used to make WCT possible:
 - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
 - [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu)
-- 
+- [StartIsBack++](https://www.startisback.com/)
+- [StartAllBack](https://www.startallback.com/)
+- [Start10/Start11](https://stardock.com)
+- [wallpaperhub.app](https://wallpaperhub.app)
+- [Rainmeter](https://www.rainmeter.net/)
+- [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)
+- [Bluesh Rainmeter Skin](https://www.deviantart.com/rainmeterbase/art/Bluesh-Rainmeter-Clock-and-Visualizer-Skin-884565589)
+- [Cold Rainmeter Skin](https://visualskins.com/skin/cold)
+- [Win10Widgets](https://win10widgets.com/)
+
 --to be complete--
