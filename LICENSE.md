@@ -26,3 +26,5 @@ OTHER DEALINGS IN THE SOFTWARE.
 *Sales of this project are prohibited. Anybody who involuntarily purchases the utility has the right to demand their money back.*
 
 For more information, please refer to <https://unlicense.org>
+
+#### 2022 Wavetec Limited on behalf of Oliverstech LLC
